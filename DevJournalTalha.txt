@@ -4,3 +4,6 @@ We brainstormed ideas and came up with a clock app.  We're planning to make a cl
 For the alarm we are going to have it so that we can set our music.  
 For the stopwatch we will have a lap function so that people can split up the different times.  
 For the timer we are going to make it so people can set the time it starts and maybe even be able to do it with your voice.
+We are thinking of trying to make it into an iphone port.  But that's only if we finish everything and still have some time left over.  
+Unfortunately we haven't started coding yet. Right now we haven't even created the blueJ file on it.
+We'll attempt to start coding this weakend.  Starting this project will probably be relatively slow but as we gain momentum our rate of production will probably go higher.
