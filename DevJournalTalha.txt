@@ -1,0 +1,6 @@
+February 06, 2015
+
+We brainstormed ideas and came up with a clock app.  We're planning to make a clock app that has a clock, timer, stopwatch, and alarm.  
+For the alarm we are going to have it so that we can set our music.  
+For the stopwatch we will have a lap function so that people can split up the different times.  
+For the timer we are going to make it so people can set the time it starts and maybe even be able to do it with your voice.
