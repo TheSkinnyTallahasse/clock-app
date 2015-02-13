@@ -1,3 +1,21 @@
-Februray 6, 2015 
+February 6, 2015 
 
-Talha and I have decided to work together on the 20% project. We have decided that 
+Talha and I have decided to work together on the 20% project. 
+We have decided to create an application that allows the user to: check the time, create an alarm ( the alarm tone can be set to a specified song), and a stopwatch that can start/stop and record splits.
+Ideally, we would like to make the clock application compatiable on phones. The reason we chose to create a clock application is because everyone is affected by time constraints. Our application can be
+a useful tool for people within their everyday lives. Since we are now finished with the outline, we will now start coding. This weekend we will decide which of the three parts (clock, alarm, stopwatch)
+we will work on first. I am excited to implement the coding skills we have learned in this class to create a practical application.
+If progress is slow, we may try to receive outside help from computer science experts (within the community like Micron workers, or from online forums).
+
+
+February 13, 2015
+
+Today we began coding for our 20% project. We decided to start on the clock section first. After we created our class,
+and started our clock method, we went on the website stackoverflow.com to get help. The website helped spark our thinking
+and we were able to come up with a date stamp. We have successfully created an application that will allow the user to check the
+time and date. The only adjustments we will need to make are that the clock is in army time, and that the clock does not 
+continously update itself. The clock stays at the same time that you opened the program. An issue that came up was that we were
+not able to use both javax.swing.Timer and Java.util.*. This was because there is a Java.util.Timer which confuses with our javax function. 
+To solve this problem we took out the Java.util.* and will only implement the specific Java.util functions we need. We do not think this
+will be too big of a problem because we are familiar with java.util. We have made a lot of progress today and are confident that
+we will be able to make our 20% project a success. 
