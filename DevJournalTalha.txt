@@ -10,7 +10,7 @@ We'll attempt to start coding this weakend.  Starting this project will probably
 
 February 13, 2015
 
-We started our project.  We had no idea how to start the code so we went onto stackoverflow for some help.  It gave us a good kickstart and helped us get the imports we needed.
+ We started our project.  We had no idea how to start the code so we went onto stackoverflow for some help.  It gave us a good kickstart and helped us get the imports we needed.
 We started the clock part of the project. So far we have successfully created a datestamp.  Now you can check army time and date.  Unfortunately it looks really bland right now and its only a date stamp which means you have to continually refresh it.
 I learned today that we can't always just use .* because if you have multiple import types they will overlap eachother.  For example there is Javax.swing.Timer and there is a Java.util.Timer so it ends up with an error when you use .* with both of them.
 That's the main thing we have learned today but now it makes sense why Schreiber was wary whenever someone asked if we can just put .* whenever he told us to put in an import.
