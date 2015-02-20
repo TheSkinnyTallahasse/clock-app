@@ -19,3 +19,14 @@ not able to use both javax.swing.Timer and Java.util.*. This was because there i
 To solve this problem we took out the Java.util.* and will only implement the specific Java.util functions we need. We do not think this
 will be too big of a problem because we are familiar with java.util. We have made a lot of progress today and are confident that
 we will be able to make our 20% project a success. 
+
+Februrary 20, 2015
+
+Today we wanted to finish up our clock application. It turned out to be more complicated than we thought.
+The application would produce two date stamps. We wanted to make the clock continuosly run. We looked online 
+and tried to follow the template that stackoverflow.com used, but we kept on receiving an instantiation error. While we 
+were stuck on that, we quickly fixed our date stamp so that it would stop outputting two date stamps. We did this
+by deleting one of our system.out.println lines of code. Our application on successfully outputs only one date stamp.
+Because we are stuck on clock, I think we will start on the stopwatch and timer classes because they are very similar.
+Once we figure one of them out, the other one should be pretty easy. Although we did not accomplish as much as we would
+have liked, we will work on the project over the weekend and get back on track.
