@@ -14,3 +14,10 @@ February 13, 2015
 We started the clock part of the project. So far we have successfully created a datestamp.  Now you can check army time and date.  Unfortunately it looks really bland right now and its only a date stamp which means you have to continually refresh it.
 I learned today that we can't always just use .* because if you have multiple import types they will overlap eachother.  For example there is Javax.swing.Timer and there is a Java.util.Timer so it ends up with an error when you use .* with both of them.
 That's the main thing we have learned today but now it makes sense why Schreiber was wary whenever someone asked if we can just put .* whenever he told us to put in an import.
+
+Febrary 20, 2015
+
+We continued our clock class today.  Unfortunately we learned that it was more difficult than we initially thought.  Today we learned what not to put in but not much on what we do need to put in.
+So we didn't do much in our clock class.  But we did start our timer class.  For that we learned that all we need are a couple of for-loops and we started doing those.  We have also started to look for simple graphics methods so that we can pretty up our project.
+I learned today that our project is actually pretty complicated and may take quite of work to figure out.  It definetely seems that I have a decent amount of work left on this project.  Its going to take a while to finish.
+We got an error that said that actionListener was abstract and couldn't be instatiated.  I had no idea what that meant.  I don't even know what instantiated means.
