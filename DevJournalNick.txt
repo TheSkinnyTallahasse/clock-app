@@ -30,3 +30,12 @@ by deleting one of our system.out.println lines of code. Our application on succ
 Because we are stuck on clock, I think we will start on the stopwatch and timer classes because they are very similar.
 Once we figure one of them out, the other one should be pretty easy. Although we did not accomplish as much as we would
 have liked, we will work on the project over the weekend and get back on track.
+
+Februrary 27, 2015
+
+Today we continued our project by trying to work on the clock part. We are still stuck on the class. We do not know how to make the clock continually update. 
+But we did find something of use. We have realized that we might need to try and make our applet pop out and be more than just a successful tester page. 
+Talha worked on trying to fix the clock class by looking on stackoverflow. I wanted a change of pace and decided that I would start on the alarm class. 
+I have worked on the outline of the alarm class and will continue to do it over the weekend. We still need to work on the stopwatch part(allowing us to count
+up as opposed to count down) and the timer(allowing us to count down). Althoudh we did not make us much progress as I thought we would today. I am 
+still confident in our project and believe that we will be able to deliver on our deliveerables and to make the 20% project a success.
