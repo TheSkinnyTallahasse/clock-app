@@ -39,3 +39,12 @@ Talha worked on trying to fix the clock class by looking on stackoverflow. I wan
 I have worked on the outline of the alarm class and will continue to do it over the weekend. We still need to work on the stopwatch part(allowing us to count
 up as opposed to count down) and the timer(allowing us to count down). Althoudh we did not make us much progress as I thought we would today. I am 
 still confident in our project and believe that we will be able to deliver on our deliveerables and to make the 20% project a success.
+
+March 6, 2015
+
+Today is the day that our presentables are due. This is our first deadline and means that whatever we stated we would have by this time period,
+ would be "presentable"(ready) for Mr. Schreiber to see. Our presentable for the 20% project this week is to have our clock application done. 
+Talha worked on the clock application today while I continued working on the alarm. I have found an outline to help with out alarm clock application,
+and Talha has continued searching for all of the "util" items we need. Talha and I think that although we had little progress over the last two weeks,
+that we have started to find out what we needed and are close to completing two of the sections. At the time of this writing we are not finished working
+for the day, but we will continue working on the project tonight. We will skype this evening and finish what we need to complete for the "presentables".
