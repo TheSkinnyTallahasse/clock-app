@@ -56,3 +56,12 @@ and displays the time. The only problem is that now we do not have the date righ
 that we could use for help. That example had the moving clock and the date, so we will look through the example and see how it combines both the date and the clock. We did not work on the stopwatch or 
 the alarm today, but we are not worried. We think that we have ample time to complete the project. Next week we will be done with the date and clock sections, leaving us just with the alarm and the
 stopwatch.
+
+March 20, 2015
+
+Today we continued on the alarm portion of the project. The next deliverable we have is due the week after we get back from Spring Break. What we promised
+in our deliverable was that we would be done with the alarm section. I think this is deliverable is feasable. Talha and I will continue working on the project
+over spring break and we will also have the day the deliverable is due to work on the alarm class. We have the outline for the class, we now just need
+to add some finishing touches. We also will need to begin working on the presentation, but that seems far easier to do than the actual coding. We should be 
+able to finish by the end of the deadline. I am excited to continue working on the project over spring break and being able to work on the project on it
+at whatever time I want.
