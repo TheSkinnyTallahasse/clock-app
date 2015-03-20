@@ -37,3 +37,10 @@ Throughout this project I have learned a lot more types of imports(ie swing, awt
 March 13, 2015
 
 I finished the clock part of the project today.  Now you can activate the dynamic clock feature and it works.  Other than that I haven't done much work on my project.  Nick was working on the alarm and the date part of our project and I started helping him on that.  We talked about what we wanted our template to be about and decided that we wanted to try and get everything in one input which may mean we might have to create a main class.  Throughout this project I have learned a lot more types of imports(ie swing, awt, etc).  It really has changed my thinking of how coding works because I have been wondering how to do things without it just being textbased and using the java.awt.Graphic import seems like a way to do it.  After working on the alarm and the date the stopwatch seems like the next logical step.
+
+March 20, 2015
+
+Today we worked on the alarm part of our project.  We didn't get that much done and we still have a lot more to go.  Today was more of setting up the project.
+We found an outline of an AlarmClock online and we're finishing that.  Hopefully this time we can finish this deliverable in time unlike last time.  
+But I'm sure we will considering we're already done with the first couple of methods which was like half the class already.  I am almost done with the clock part of the project and I have opened up a new project that has the alarm for the clock.  I have gotten quite a bit of work done for my project but the clock part is definetely the longest part.  I have pretty much said everything we're planning to do until the next deriverable and what we've already done.
+I am very hopeful for this project.
