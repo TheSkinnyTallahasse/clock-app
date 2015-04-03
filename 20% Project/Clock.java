@@ -14,10 +14,13 @@ import java.text.DateFormat;
 import java.util.Date;
 /**
  * Class that creates a clock
+ * @author Talha Ahmed
+ * @author Nick Harmon
  */
 public class Clock {
     /**
-     * 
+     * runs the clock
+     * @param String[] args,
      */
     public static void main(String[] args) {
         JFrame f = new JFrame();
