@@ -44,3 +44,5 @@ Today we worked on the alarm part of our project.  We didn't get that much done 
 We found an outline of an AlarmClock online and we're finishing that.  Hopefully this time we can finish this deliverable in time unlike last time.  
 But I'm sure we will considering we're already done with the first couple of methods which was like half the class already.  I am almost done with the clock part of the project and I have opened up a new project that has the alarm for the clock.  I have gotten quite a bit of work done for my project but the clock part is definetely the longest part.  I have pretty much said everything we're planning to do until the next deriverable and what we've already done.
 I am very hopeful for this project.
+
+April 3, 2015
