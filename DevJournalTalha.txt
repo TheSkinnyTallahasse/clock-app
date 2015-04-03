@@ -24,6 +24,23 @@ We got an error that said that actionListener was abstract and couldn't be insta
 
 February 27, 2015
 
-We continued on our clock part today.  We learned that the clock part of this project is going to have multiple classes and we've finished the first class.  It still can not work though without the other couple of classes as well because I had to declare those classes.
+We continued our clock part today.  We learned that the clock part of this project is going to have multiple classes and we've finished the first class.  It still can not work though without the other couple of classes as well because I had to declare those classes.
 This weekend I am planning to finish the other classes and finish the clock part of this project.  It may take a while though because this is a lot more difficult than we originally thought it would be. I think we can finish the clock part though within another 3 or 4 hours of work.
 The next thing I will start working on after this is the timer.  It seems like the next logical step because it seems that making a timer, a stopwatch and an alarm would all go hand in hand and the timer seems like the first logical step.
+
+March 6, 2015
+
+We continued our clock part today.  I tried to finish it but unfortunately wasn't able to.  There are still a few things that I left to do.  I still have a big problem with the getFont() method.  From what I've read, is that getFont should work by just having the Font method but it doesn't seem to work.
+I am almost done with the clock part of the project and I have opened up a new project that has the alarm for the clock.  I have gotten quite a bit of work done for my project but the clock part is definetely the longest part.
+Throughout this project I have learned a lot more types of imports(ie swing, awt, etc).  It really has changed my thinking of how coding works because I have been wondering how to do things without it just being textbased and using the java.awt.Graphic import seems like a way to do it.
+
+March 13, 2015
+
+I finished the clock part of the project today.  Now you can activate the dynamic clock feature and it works.  Other than that I haven't done much work on my project.  Nick was working on the alarm and the date part of our project and I started helping him on that.  We talked about what we wanted our template to be about and decided that we wanted to try and get everything in one input which may mean we might have to create a main class.  Throughout this project I have learned a lot more types of imports(ie swing, awt, etc).  It really has changed my thinking of how coding works because I have been wondering how to do things without it just being textbased and using the java.awt.Graphic import seems like a way to do it.  After working on the alarm and the date the stopwatch seems like the next logical step.
+
+March 20, 2015
+
+Today we worked on the alarm part of our project.  We didn't get that much done and we still have a lot more to go.  Today was more of setting up the project.
+We found an outline of an AlarmClock online and we're finishing that.  Hopefully this time we can finish this deliverable in time unlike last time.  
+But I'm sure we will considering we're already done with the first couple of methods which was like half the class already.  I am almost done with the clock part of the project and I have opened up a new project that has the alarm for the clock.  I have gotten quite a bit of work done for my project but the clock part is definetely the longest part.  I have pretty much said everything we're planning to do until the next deriverable and what we've already done.
+I am very hopeful for this project.
