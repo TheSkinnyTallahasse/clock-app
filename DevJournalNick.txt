@@ -65,3 +65,10 @@ over spring break and we will also have the day the deliverable is due to work o
 to add some finishing touches. We also will need to begin working on the presentation, but that seems far easier to do than the actual coding. We should be 
 able to finish by the end of the deadline. I am excited to continue working on the project over spring break and being able to work on the project on it
 at whatever time I want.
+
+April 3, 2015
+
+Today is the day that our deliverables are due. For this week we are supposed to be done with the alarm class and start on our presentation. Mr. Schreiber talked to us and said that we do not 
+have to have the presentable part turned in by today. Because of this, we are focusing only on the alarm class. During our worktime we were having trouble figuring out where to start and what to do.
+Talha and I decided to stay after school and to continue working. A kid named Lee helped us out and we were able to make a lot of progress. We should be done by the end of the day. After the alarm is finished,
+all we will have to do is create the stopwatch class. The project has been making great progress and in all honesty I am surprised at hour much we have done.
