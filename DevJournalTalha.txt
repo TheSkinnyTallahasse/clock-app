@@ -46,3 +46,5 @@ But I'm sure we will considering we're already done with the first couple of met
 I am very hopeful for this project.
 
 April 3, 2015
+
+For this week we need to have our deliverables. Nick and I said that we would have finished our alarm class and started our presentation. Mr. Schreiber talked to the class and said that we do not need to worry about the presentation part because he will talk to us about what we need. We are basically done with the alarm class. We met a fellow TVMSC student named Lee who helped us make lots of progress. Because we were not done with the deliverables, we stayed after school to continue working. After Mr. Schreiber finished his class, he then proceded to help us tidy up our alarm class and near completion. Although we did not finish the alarm class, we are fairly close to being done and confident that we will get it done very quickly.  We still need to add in the main class and get the template up for the user.
