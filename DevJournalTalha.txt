@@ -44,3 +44,7 @@ Today we worked on the alarm part of our project.  We didn't get that much done 
 We found an outline of an AlarmClock online and we're finishing that.  Hopefully this time we can finish this deliverable in time unlike last time.  
 But I'm sure we will considering we're already done with the first couple of methods which was like half the class already.  I am almost done with the clock part of the project and I have opened up a new project that has the alarm for the clock.  I have gotten quite a bit of work done for my project but the clock part is definetely the longest part.  I have pretty much said everything we're planning to do until the next deriverable and what we've already done.
 I am very hopeful for this project.
+
+April 3, 2015
+
+For this week we need to have our deliverables. Nick and I said that we would have finished our alarm class and started our presentation. Mr. Schreiber talked to the class and said that we do not need to worry about the presentation part because he will talk to us about what we need. We are basically done with the alarm class. We met a fellow TVMSC student named Lee who helped us make lots of progress. Because we were not done with the deliverables, we stayed after school to continue working. After Mr. Schreiber finished his class, he then proceded to help us tidy up our alarm class and near completion. Although we did not finish the alarm class, we are fairly close to being done and confident that we will get it done very quickly.  We still need to add in the main class and get the template up for the user.
