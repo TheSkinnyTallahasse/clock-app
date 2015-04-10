@@ -72,3 +72,12 @@ Today is the day that our deliverables are due. For this week we are supposed to
 have to have the presentable part turned in by today. Because of this, we are focusing only on the alarm class. During our worktime we were having trouble figuring out where to start and what to do.
 Talha and I decided to stay after school and to continue working. A kid named Lee helped us out and we were able to make a lot of progress. We should be done by the end of the day. After the alarm is finished,
 all we will have to do is create the stopwatch class. The project has been making great progress and in all honesty I am surprised at hour much we have done.
+
+
+April 10, 2015
+
+To start the day off, Talha and I decided to get some Los Betos because we felt that it would give us some much needed brain power. Unfortunately, we did not end up working on our project in class. 
+Instead, we prepared for the elevator pitch that was due today. For this pitch we must explain why our product is useful. Although Hariank laughed when we explained what it was, we believe it is 
+still very useful. As a reminder, our goal is create an application that has a clock, alarm, and a timer. We presented to Mr. Schreiber and we were successful. Talha and I were relieved that we did
+so well on our presentation. Now we can focus on finishing up our project. On a side note, Talha and I realized that since we will finish the school year before everyone else, we will have to 
+present a little sooner. But it will be ok. 
