@@ -56,3 +56,10 @@ We did not work on the project this week.  We spent the whole period planning ou
 period we spent writing our Developer Journals.  This period was very distracting.  I spent lots of it being distracted and playing with Sierra's scooter. 
 After Mr. Schreiber finished his class, he then proceded to help us tidy up our alarm class and near completion. Although we did not finish the alarm class, we are fairly close to being done and confident that we will get it done very quickly.  We still need to add in the main class and get the template up for the user.  I am confident that in our project.
 
+April 17, 2015
+
+Today we learned what an applet was.  It was an inteesting experience.  it took us pretty much the whole period and unfortunately we didn't get that much done.
+We did find out that we weren't supposed to make a main method in our alarm class and instead we have to make an entirely new applet class. This is good news
+and bad news at the same time.  At one hand that means that our Alarm Clock class is done.  On the other hand it means that we have to do an extra class that
+we didn't plan for.  After Mr. Schreiber finished his class, he then proceded to help us tidy up our alarm class and near completion. Although we did not finish the alarm class, we are fairly close to being done and confident that we will get it done very quickly.  We still need to add in the main class and get the template up for the user.  I am confident for this project.
+
