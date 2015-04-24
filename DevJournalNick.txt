@@ -81,3 +81,20 @@ Instead, we prepared for the elevator pitch that was due today. For this pitch w
 still very useful. As a reminder, our goal is create an application that has a clock, alarm, and a timer. We presented to Mr. Schreiber and we were successful. Talha and I were relieved that we did
 so well on our presentation. Now we can focus on finishing up our project. On a side note, Talha and I realized that since we will finish the school year before everyone else, we will have to 
 present a little sooner. But it will be ok. 
+
+April 17, 2015
+
+Today we started off trying to create the applet portion of our program. We did not know how to create an applet or how to create one.
+After looking online, and having Mr. Schreiber explain it to us, we somewhat have an understanding of it. We realized that we havea  problem
+in our applet. Instead of making a main class within our applet, we are going to make a whole new class and have it implemented within the applet.
+The project deadline is coming upon us and we are close to finishing our project. I hope that it turns out well. I do not know what we should
+work on next after the applet portion. Talha will enlighten me. We still might need to implement a stopwatch portion to our project, but I am not sure.
+I will have to confer with Talha whether or not we are going to make one. 
+
+April 24, 2015
+
+At the beginning of the day, we needed to create an applet. Talha began researching this while I looked up examples of how to make a physical version of an analogue clock in Java. 
+I found some videos and a couple of sites that seemed to clear up some of the problems Talha and I were having. While I was doing this, Talha figured out what an applet was and began creating our
+applett. Talha and I need to be prepared to give our deliverables next friday. I think we will be able to finish in time and the project will be a success. Time has flown by doing this project, but it
+seems like almost everything is complete. Talha and I may work on this over the weekend. I do not know for sure. But I am certain that we will be ready to present our 20% project and receive an outstanding
+grade.
