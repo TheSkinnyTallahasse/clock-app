@@ -90,3 +90,11 @@ in our applet. Instead of making a main class within our applet, we are going to
 The project deadline is coming upon us and we are close to finishing our project. I hope that it turns out well. I do not know what we should
 work on next after the applet portion. Talha will enlighten me. We still might need to implement a stopwatch portion to our project, but I am not sure.
 I will have to confer with Talha whether or not we are going to make one. 
+
+April 24, 2015
+
+At the beginning of the day, we needed to create an applet. Talha began researching this while I looked up examples of how to make a physical version of an analogue clock in Java. 
+I found some videos and a couple of sites that seemed to clear up some of the problems Talha and I were having. While I was doing this, Talha figured out what an applet was and began creating our
+applett. Talha and I need to be prepared to give our deliverables next friday. I think we will be able to finish in time and the project will be a success. Time has flown by doing this project, but it
+seems like almost everything is complete. Talha and I may work on this over the weekend. I do not know for sure. But I am certain that we will be ready to present our 20% project and receive an outstanding
+grade.
