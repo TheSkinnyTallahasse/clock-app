@@ -69,3 +69,10 @@ Today we continued making our applet for the alarm.  It took a while to find a g
 much the only way I can find out.  Now I just need to fill up some space and make more words on this Developer Journal. The Alarm part of my class is pretty much done now and I'm coming towards the end of it now.  I'll be setting my eyes on the timer class next.  I am sure that we will have done by next week and 
 be able to turn it in with the deriverable. I am so close to being done with this Developer Journal I just need fourteen more words.  This is where all the 
 stalling comes into effect.
+
+May 1, 2015
+
+Today we continued making our applet for the alarm.  We got a lot of progress in on it.  The sound doesn't quite work yet but the reminder does.  We polished some of our code in their and polished
+some code in our clock class so that it did regular time instead of army.  We were thinking of going back to the alarm class after we were done with the project and make a text-to-speech program so
+that the program yells out the reminder you set as the thing.  I am hopefull that we can finish this project in time and maybe go back and put some of our other ideas in it pretty well.  We are probably
+going to scrap the stopwatch part of the project because we won't have time to finish that.  Instead, we will try to make our other classes better.  We're going for quality over quantity.
