@@ -98,3 +98,10 @@ I found some videos and a couple of sites that seemed to clear up some of the pr
 applett. Talha and I need to be prepared to give our deliverables next friday. I think we will be able to finish in time and the project will be a success. Time has flown by doing this project, but it
 seems like almost everything is complete. Talha and I may work on this over the weekend. I do not know for sure. But I am certain that we will be ready to present our 20% project and receive an outstanding
 grade.
+
+May 1, 2015
+Today is the day that our deliverables are due. We were skeptical that we would be able to finish what we had said we would get done. But fortunately we did get our deliverables done. 
+The thing that we had to finish was making sure our alarm portion of the project worked. By the end of the class we had it completed. Mr. Schreiber helped us a lot with this portion. It turned
+out that we had the alarm done, but the reason that the program would not work was because when we entered in a time we included a space, and that space messed up the system. As of right now the clock 
+portion and the alarm protion of the project are complete. We said that we would have a stopwatch portion that completed splits, but we are thinking of disregarding this. Instead, we might try to do
+a text to speak for our alarm. Mr. Schreiber said this was challenging to implete but we think that if focus solely on this text to speak, then we could make it work.
