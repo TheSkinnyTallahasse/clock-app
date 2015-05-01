@@ -1,3 +1,4 @@
+
 /* class AlarmClock
  *
  * This class contains all of the information to implement an alarm clock
@@ -25,9 +26,6 @@ public class AlarmClock
     // this contains code to initialize all variables in object
     // this is a special method - it has no return value (and no void)
     
-    public static void main(String args[]){
-      
-    }
     
     
     public AlarmClock()
