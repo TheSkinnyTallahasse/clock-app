@@ -29,10 +29,9 @@ public class Clock {
         f.add(myClock);
         f.pack();
         f.setVisible(true);
-        DateFormat format = new SimpleDateFormat("hh:mm:ss");
-        String sT = format.format(new Date());
+
     }
-    
+
     /**
      * 
      */
@@ -48,30 +47,42 @@ public class Clock {
         public void setStringTime(String xyz) {
             this.sT = xyz;
         }
-        
+
         /**
          * 
          */
         public int findMinimumBetweenTwoNumbers(int a, int b) {
             return (a <= b) ? a : b;
         }
-        
+
         /**
          * 
          */
         DigitalClock() {
             Timer t1 = new Timer(1000, new ActionListener() {
-                /**
-                 * 
-                 */
-                public void actionPerformed(ActionEvent e) {
-
-                    repaint();
-                }
-            });
+                        /**
+                         * 
+                         */
+                        public void actionPerformed(ActionEvent e) {
+                            Calendar c=Calendar.getInstance();
+                            String txt,time,g="";
+                            if(c.get(Calendar.AM_PM)==1)
+                            {
+                                g=""+c.get(Calendar.HOUR)+":"+c.get(Calendar.MINUTE)+"PM";
+                            }
+                            else
+                            {
+                                if(c.get(Calendar.HOUR)==0)
+                                    g=""+12+":"+c.get(Calendar.MINUTE)+"AM";
+                                else
+                                    g=""+c.get(Calendar.HOUR)+":"+c.get(Calendar.MINUTE)+"AM";
+                            }
+                            repaint();
+                        }
+                    });
             t1.start();
         }
-        
+
         /**
          * 
          */
@@ -111,7 +122,7 @@ public class Clock {
             g.drawString(sT, (int) length/6, length/2);
 
         }
-        
+
         /**
          * 
          */
